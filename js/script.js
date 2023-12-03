@@ -1,0 +1,1 @@
+// JavaScript for handling login and signup
